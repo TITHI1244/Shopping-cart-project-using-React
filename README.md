@@ -4,3 +4,4 @@ Shopping-cart project created for applying for the position of 'Frontend Web dev
 ----Static data inside 'src'/'data'
 ----Images inside 'src'/'Images'
 ----Default image is inside 'Components'/'1.jpg'
+----Used Bootstrap 4 for styling, also have used CSS
